@@ -1,0 +1,9 @@
+version: 0.1.0
+
+server:
+    name: DSPT
+    version: 0.1.0
+    host: 0.0.0.0
+    port: 9999
+    debug: true
+    auto_reload: true
