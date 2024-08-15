@@ -1,5 +1,0 @@
-conf/*.prod.yml
-conf/*.test.yml
-__pycache__
-.DS_Store
-data/
